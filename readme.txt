@@ -9,4 +9,4 @@ yound and beauity
 
 pissive   no  negetive
 
-nobeady can block no battle
+nobeady can block no battl
