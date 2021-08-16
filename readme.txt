@@ -8,3 +8,5 @@ can we kiss forever
 yound and beauity
 
 pissive   no  negetive
+
+nobeady can block no battle
