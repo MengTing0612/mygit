@@ -7,4 +7,4 @@ can we kiss forever
 
 yound and beauity
 
-pissive
+pissive   no  negetive
