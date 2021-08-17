@@ -1,5 +1,5 @@
 Git is a version control system.
-Git is free software
+Git is a free software
 
 where is a will ,where is a way
  
@@ -26,4 +26,6 @@ you can  complete  your dream
 the song of fire and ice
 
 i know it   i undstand it
+
+stay
 
