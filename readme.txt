@@ -11,7 +11,7 @@ pissive   no  negetive
 
 nobeady can block no battl
 
-today is l
+today is light
 
 maybe i can make a choice 
 
@@ -19,16 +19,11 @@ i can win
 
 see your flag 
 
-believe
+believe  me
 
-<<<<<<< HEAD
-maybe i can make a choice 
+you can  complete  your dream
 
-i can win
+the song of fire and ice
 
-see your flag 
+i know it 
 
-believe
-
-=======
->>>>>>> dev
