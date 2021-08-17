@@ -12,3 +12,5 @@ pissive   no  negetive
 nobeady can block no battl
 
 today is light
+
+maybe i can make a choice ,but i don't sure
