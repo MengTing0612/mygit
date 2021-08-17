@@ -11,7 +11,7 @@ pissive   no  negetive
 
 nobeady can block no battl
 
-today is light
+today is l
 
 maybe i can make a choice 
 
@@ -21,3 +21,14 @@ see your flag
 
 believe
 
+<<<<<<< HEAD
+maybe i can make a choice 
+
+i can win
+
+see your flag 
+
+believe
+
+=======
+>>>>>>> dev
