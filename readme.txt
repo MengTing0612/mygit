@@ -11,10 +11,13 @@ pissive   no  negetive
 
 nobeady can block no battl
 
-today is light
+today is l
 
 maybe i can make a choice 
 
 i can win
 
-see your flag
+see your flag 
+
+believe
+
