@@ -22,13 +22,8 @@ see your flag
 believe  me
 
 you can  complete  your dream
-<<<<<<< HEAD
-
-the song of fire and ice
-=======
 
 the song of fire and ice
 
-i know it 
->>>>>>> flag
+i know it   i undstand it
 
