@@ -11,7 +11,7 @@ pissive   no  negetive
 
 nobeady can block no battl
 
-today is l
+today is light
 
 maybe i can make a choice 
 
@@ -22,6 +22,13 @@ see your flag
 believe  me
 
 you can  complete  your dream
+<<<<<<< HEAD
 
 the song of fire and ice
+=======
+
+the song of fire and ice
+
+i know it 
+>>>>>>> flag
 
