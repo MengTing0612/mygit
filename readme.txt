@@ -19,16 +19,5 @@ i can win
 
 see your flag 
 
-believe
+believe  me
 
-<<<<<<< HEAD
-maybe i can make a choice 
-
-i can win
-
-see your flag 
-
-believe
-
-=======
->>>>>>> dev
